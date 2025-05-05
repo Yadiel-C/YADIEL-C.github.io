@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+	<head>
+		<meta charset= "UTF-8">
+		<meta name= "description" content= "Adopt a Furry Friend Today!">
+		<meta name= "viewport" content= "width=device-width, initial-scale=1.0">
+		<title> About AdoptAPAw </title>
+		<link rel= "stylesheet" href= "style.css">
+	</head>
+	<body>
+		<header>
+			<h1> About AdoptAPaw </h1>
+			<nav>
+			<div class= "container">
+			<div class= "topbar">
+				<a href= "index.html"> Home </a>
+				<a href= "adopt_html"> Adopt a Pet </a>
+				<a href= "about.html">About Us </a>
+				<a href= "contact.html">Contact Us </a>
+			</div>
+			</nav>
+		</header>
+		<section>
+		<div class= "Us">
+		<p> Welcome to AdoptAPaw, a place where quality meets care. We're not a shelter or rescue; we're a professional adoption center focused on connecting people with 
+			purebred and rare animals that are healthy and well-cared for. Our goal is to provide a premium experience for both pets and future pet owners. Each animal is 
+			carefully selected, given thorough health screenings, and prepared for a smooth transition into your life. We include everything that your new companion needs to
+			help them tranistion into thier forever homes a smooth process. Whether you're looking for a loyal dog, a unique cat breed, or the perfect pet, we are here to 
+			make it happen! Responsibly, ethically, and with a passion for excellence. </p>
+		</div>
+		<div class= "pets-img">
+		<img src= "petvet.jpg" alt= "Licensed vet giving a dog a checkup">
+		<img src= "ojosazulesclimb.jpg" alt= "An Ojos Azules cat climbing a yarn tower">
+		<img src= "dogyard.jpg" alt= "Dogs playing in a yard">
+		<img src= "catanddog.jpg" alt= "Cats and dogs playing with each other">
+		</div>
+		<img src= "meeting.jpg" alt= "Members of AdoptAPaw meeting with licensed and trusted vets">
+		</div>
+		</section>
+	</body>
+<html>

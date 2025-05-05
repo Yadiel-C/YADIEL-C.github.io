@@ -1,0 +1,106 @@
+body {
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+<!-- Format lists -->
+ul {
+	padding: 10px;
+	font-weight: bold;
+	
+}
+
+
+<!-- Format background -->
+body {
+	background-color: blue;
+	
+}
+
+
+<!-- Format text -->
+h1, h2 {
+	font-family: Montserrat, sans-serif;
+	font-weight: bold;
+	
+}
+
+
+p {
+	font-size: 15px;
+	font-family: Montserrat, sans-serif;
+	font-weight: bold;
+	
+}
+
+
+<!--Use pseudo classes for hypertext links -->
+<!--Use pseudo classes/elements -->
+a:hover {
+	color: purple;
+	
+}
+
+a:visited {
+	color: purple;
+	
+}
+
+.Welcome {
+	margin-top: 100px;
+	padding: 20px;
+	
+}
+
+<!--Handle overflow -->
+.topbar {
+	background-color: white;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1000;
+	padding: 15px 0;
+	display: flex;
+	justify-content: center;
+	overflow: auto;
+}
+
+.topbar a {
+	margin: 0 20px;
+	font-size: 20px;
+	overflow: auto;
+	text-decoration: none;
+}
+
+.main-content {
+	margin-top: 20px;
+	padding: 20px;
+}
+
+.us {
+	margin-top: 20px;
+	padding: 20px;
+}
+
+.Contact {
+	margin-top: 20x;
+	padding: 20px;
+}
+
+<!-- Float element -->
+.beach-dog-img {
+	float: right;
+	margin-left: 15px;
+	max-width: 300px;
+	height: auto;
+	overflow: auto;
+}
+
+<!--Create a grid layout -->
+.pets-img {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 10px;
+	padding: 15px;
+	overflow: auto;
+}

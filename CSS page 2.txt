@@ -1,0 +1,58 @@
+<!--Implement responsive design to different screen widths using @media and flex/flexbox -->
+@media (max-width: 500px) {
+	.Welcome {
+		font-size: 18px;
+		text-align: center;
+	}
+	.container {
+		flex-direction: column;
+		width: 100%;
+	}
+	.topbar {
+		width: 100%;
+		margin-bottom: 15px;
+		background-color: white;
+		padding: 10px;
+		
+	}
+	.topbar a {
+		text-decoration: none;
+	}
+	
+	.topbar .container {
+		padding: 10px;
+	}
+	
+	.pets-img .beach-dog-img {
+		max-width: 100px;
+		height: auto;
+		display: block;
+	}
+}
+
+
+@media (max-width: 770px) {
+	.Welcome {
+		font-size: 22px;
+	}
+	.container {
+		flex-direction: column;
+		padding: 25px;
+	}
+	.topbar {
+		width: 100%;
+		margin-bottom: 15px;
+		background-color: white;
+		padding: 20px;
+	}
+	.topbar a {
+		font-size: 20px;
+		text-decoration: none;
+	}
+	.pets-img .beach-dog-img {
+		max-width: 100%;
+		height: auto;
+		display: block;
+	}
+}
+		

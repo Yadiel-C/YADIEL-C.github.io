@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+	<head>
+		<meta charset= "UTF-8">
+		<meta name= "description" content= "Adopt a Furry Friend Today!">
+		<meta name= "viewport" content= "width=device-width, initial-scale=1.0">
+		<title> Adopt A Pet </title>
+		<link rel= "stylesheet" href= "style.css">
+	</head>
+		<body>
+		<header>
+			<h1> Adopt a pet </h1>
+			<nav>
+				<div class= "container">
+				<div class= "topbar">
+				<a href= "index.html"> Home </a>
+				<a href= "adopt_html"> Adopt a Pet </a>
+				<a href= "about.html">About Us </a>
+				<a href= "contact.html">Contact Us </a>
+				</div>
+			</nav>
+		</header>
+		<section>
+			<div class= "main-content">
+			<h2> Available Pets </h2>
+			<p> Here are the animals that are currently available for adoption. </p>
+			</div>
+			
+			<h3 id= "GermanShepherd"> German Shepherd Dog</h3>
+			<p> Looking for a loyal fur friend to add to the family? German Shepherds are loyal, intelligent, quick learners, that love being outdoors. German Shepherds reqire lots of exercise 
+				since they are big and energetic. They come in many diffrent color patterns. </p>
+			<p> Adoption Fee: $1000 </p>
+			<h5> Items Included with the Adoption: </h5>
+			<ul>
+				<li> Vaccinations </li>
+				<li> Microchip </li>
+				<li> Leash & Adjustable collar </li>
+				<li> Health Certificate from licensed vet </li>
+				<li> Bag of large food </li>
+			</ul>
+			<img src= "german-shepherd.jpg" alt= "German Shepherd and owner on a hike">
+		</section>
+		
+		<section>
+			<h3 id= "Collie"> Collie Dog </h3>
+			<p> If your looking to adopt a tame family pet then the collie is right for you. Collies are <strong> tame, intelligent, and quick to train </strong>. They have <strong> high energy 
+				but it's manageable </strong> which makes them a really good pet that the whole family will love to spend time with! </p>
+			<p> Adoption Fee: $1000 </p>
+			<h5> Items Included with the Adoption: </h5>
+			<ul>
+				<li> Microchip </li>
+				<li> Grooming session before adoption </li>
+				<li> Harness & Leash </li>
+				<li> Vet exam report </li>
+				<li> Starter food & care guide </li>
+			</ul>
+			<img src= "collie.dog.jpg" alt= "Collie Dog running in a nice, green yard">
+		</section>
+		
+		<section>
+			<h3 id= "GoldenRetriever"> Golden Retriever Dog </h3>
+			<p> Golden Retrievers are <em> very social and loyal </em>. They <strong> require a lot of exercise, mental stimulation, and social interactions </strong>. Golden Retrievers love walks, 
+			and playing fetch. Golden Retrievers are also <strong> highly trainable </strong>. These beautiful dogs have a <em> double-coat </em> that <strong> requires a lot of grooming </strong>. 
+			They are <em> very heavy shedders </em> so be prepared </p>
+			<p> Adoption Fee: $1000 </p>
+			<h5> Items Included with the Adoption: </h5>
+			<ul>
+				<li> Microchip </li>
+				<li> Toy & Blanket </li>
+				<li> Collar & Leash </li>
+				<li> Vet health check </li>
+				<li> Puppy or Adult food </li>
+			</ul>
+			<img src= "goldenretriever.dog.jpg" alt= "Golden Retriever catching a stick">
+		</section>
+		
+		<section>
+			<h3 id= "Balinese"> Balinese Cat </h3>
+			<p> Balinese cats are often <em> very friendly and affectionate </em> <strong> but can also be very demanding </strong>. Balinese cats are <em> very social and have a lot of energy </em>. 
+			Balinese cats <strong> don't require a lot of grooming <strong> since they tend to shed less than most long-haired breeds which makes them a low maintenance breed. </p>
+			<p> Adoption Fee: $1000 </p>
+			<h5> Items Included with the Adoption: </h5>
+			<ul>
+				<li> Microchip </li>
+				<li> Grooming brush </li>
+				<li> Litter box </li>
+				<li> Toy & comfort blanket </li>
+				<li> Vet exam </li>
+			</ul>
+			<img src= "balinese.cat.jpg" alt= "Balinese cat cuddling">
+		</section>
+		
+		<section>
+			<h3 id= "LaPerm"> LaPerm Cat </h3>
+			<p> LaPerm cats are <em> medium-sized cats and take 2-3 years to fully mature </em>. LaPerm cats have an <strong> outgoing personality </strong>. <em> They enjoy being around people, 
+			and are really playful </em>. LaPerms tend <em> to have very curly hair and comes in a variety of colors </em>, which <strong> requires regular grooming </strong>. </p>
+			<p> Adoption Fee: $1000 </p>
+			<h5> Items Included with the Adoption: </h5>
+			<ul>
+				<li> Microchip </li>
+				<li> Curl-Safe grooming comb </li>
+				<li> Small bag of premium cat food </li>
+				<li> Litter box & Toy pack </li>
+				<li> Health record and care instructions </li>
+			</ul>
+			<img src= "laperm.cat.jpg" alt= "LaPerm cat playing with other animals">
+		</section>
+		
+		<section>
+			<h3 id= "Ojos Azules"> Ojos Azules Cat </h3>
+			<p> Ojos Azules cats have have a <em> sleek body and come in a variety of coat colors </em>, including, white, black, and gray. There most noticeable characteristic is there beautiful 
+				bright blue eyes. Ojos Azules cats <strong> require a lot of grooming to maintain it's luster </strong>. These cats are <em> incredibly social and thrive off compananionship </em>. 
+				Ojos Azules get extremely sad when left alone for long periods of time. </p>
+			<p> Adoption Fee: $1000 </p>
+			<h5> Items Included with the Adoption: </h5>
+			<ul>
+				<li> Microchip </li>
+				<li> Travel carrier </li>
+				<li> Custom toy & food bowl </li>
+				<li> Premium cat food </li>
+				<li> Care guide </li>
+			</ul>
+			<img src= "ojosazules.cat.jpg" alt= "Ojos Azules cat enjoying a massage">
+			</div>
+		</section>
+	</body>
+<html>

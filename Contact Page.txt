@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+	<head>
+		<meta charset= "UTF-8">
+		<meta name= "description" content= "Adopt a Furry Friend Today!">
+		<meta name= "viewport" content= "width=device-width, initial-scale=1.0">
+		<title> Contact AdoptAPAw </title>
+		<link rel= "stylesheet" href= "style.css">
+	</head>
+	<body>
+		<header>
+			<h1> Contact Us - AdoptAPaw </h1>
+			<nav>
+			<div class= "container">
+			<div class= "topbar">
+				<a href= "index.html"> Home </a>
+				<a href= "adopt_html"> Adopt a Pet </a>
+				<a href= "about.html">About Us </a>
+				<a href= "contact.html">Contact Us </a>
+			</div>
+			</nav>
+		</header>
+		<section>
+		<div class= "Contact">
+			<h2> <strong> Have questions? Ready to meet your future pet? </strong> </h2>
+		</div>
+			<p> We're here to help! Feel free to reach out through any of the methods below </p>
+		<div class= "beach-dog-img">
+			<img src= "dogonbeach.jpg" alt= "Dog on the beach">
+		</div>
+			<p> <strong> Phone: (555) 123-4567 </strong> </p>
+			<p> <strong> Email: Aadopt@adoptapawwadoption.com </strong> </p>
+			<p> <strong> Hours: </strong> <br>
+				Monday-Friday: 10am - 8 pm <br>
+				Saturday-Sunday: 10am - 5pm </p>
+			</div>
+	</body>
+<html>
+			
