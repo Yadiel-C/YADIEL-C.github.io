@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+	<head>
+		<!-- Set metadata of the document -->
+		<meta charset= "UTF-8">
+		<meta name= "description" content= "Adopt a Furry Friend Today!">
+		<meta name= "viewport" content= "width=device-width, initial-scale=1.0">
+		<title> AdoptAPaw </title>
+		<!-- link to a CSS file -->
+		<link rel= "stylesheet" href= "style.css">
+	</head>
+		<body>
+			<header>
+			<!-- Block element -->
+				<div class= "container">
+				<div class= "Welcome">
+				<h1> Welocme to the AdoptAPaw website! </h1>
+				<p> We help dogs and cats find the home, love, and care that they deserve. Meet our adorable animals waiting for a home!</p>
+				</div>
+				<nav> 
+					<!-- Include navigation list within hypertext links --> 
+					<div class= "topbar">
+					<a href= "index.html"> Home </a>
+					<a href= "adopt_html"> Adopt a Pet </a>
+					<a href= "about.html">About Us </a>
+					<a href= "contact.html">Contact Us </a>
+					</div>
+				</nav>
+			</header>
+			<!-- Use sectioning, grouping, and text-level elements -->
+			<section>
+				<h2> Here are some images of some of our pets that are looking for a home. </h2>
+				<!-- Include inline images -->
+				<img src="dog.jpg" alt= "A happy dog playing in a yard">
+				<img src="cat.jpg" alt= "Two cats playing with yarn">
+				<img src="cat/dog.jpg" alt= "A cat and dog playing together">
+				<h3> Why Adopt a Pet? </h3>
+				<p> Not only do you get a loving campanion to go on vaction and make memories with, you're also giving them a place they can call home. </p>
+			</div>
+		</body>
+<html>
